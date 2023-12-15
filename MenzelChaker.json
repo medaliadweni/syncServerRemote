@@ -1,0 +1,32 @@
+[{
+    "destination": "MenzelChaker",
+    "state": "DONE",
+    "data": {
+        "weight": 80,
+        "vehicule": null,
+        "amount": 150,
+        "matricule": "125-5555",
+        "transportation_price": 30,
+        "brut": null,
+        "tar": null,
+        "isSync": true,
+        "from": 23,
+        "to": null,
+        "sender": 1,
+        "receiver": 1,
+        "weighing": null
+    },
+    "weighing": {
+        "gross": 4.3881856540084385,
+        "extruction_rate": 0,
+        "unit_price": 1.875,
+        "tare": 84.38818565400842,
+        "total_price": -150,
+        "net": -79.99999999999999,
+        "hab": -3.375527426160337,
+        "dal": -1.350210970464135,
+        "tax": null,
+        "state": "TRANSFERT"
+    },
+    "id": 1
+}]
